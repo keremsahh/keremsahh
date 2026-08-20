@@ -3,6 +3,3 @@
 
 I enjoy creating efficient, secure, and user-friendly digital experiences as a hobby. During my student years, I’m developing my skills in the digital field and exploring the fundamentals of computer science.
  
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keremsahh&theme=dark" alt="keremsahh" />
-</div>
